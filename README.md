@@ -9,6 +9,7 @@ These projects are based on this source code:
 - Sonic The Hedgehog in Hellfire Saga
 - Sonic 3 & Knuckles: Epilogue
 - TishaProject (2019)
+- Sonic: Full Throttle (unreleased)
 
 Check out the Sonic Retro source code:
 
